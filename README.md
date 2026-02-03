@@ -1,1 +1,0 @@
-# student_software_management_portal
